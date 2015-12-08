@@ -1,7 +1,7 @@
 {
   "name": "grunt-jsxhint",
   "description": "jshint for jsx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/tillarnold/grunt-jsxhint",
   "author": "Till Arnold",
   "license" : "MIT",
@@ -18,8 +18,8 @@
   "dependencies": {
     "proxyquire": "~1.0.1",
     "rewire": "~2.0.1",
-    "react-tools": "~0.11.1",
-    "grunt-contrib-jshint": "0.10.0",
+    "react-tools": "~0.13.2",
+    "grunt-contrib-jshint": "0.11.0",
     "jshint":"~2.5.1"
   },
   "peerDependencies": {
